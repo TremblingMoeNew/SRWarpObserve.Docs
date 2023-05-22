@@ -12,7 +12,7 @@ SRGF为星穹铁道跃迁观测工具当前所声明支持的唯一导入与导�
 
 ## 格式介绍
 
-请前往UIGF组织的官方网站查看SRGF标准原文。
+请前往UIGF组织的官方网站查看[SRGF标准原文](https://uigf.org/zh/standards/SRGF.html)。
 
 SRGF格式根对象下包含`info`与`list`两个字段，前者为一个保持该记录文件基本信息的对象，后者用于存放所有跃迁记录项的一个数组。
 
@@ -76,7 +76,7 @@ UIGF组织提供了SRGF格式的JSON Schema。
 |`export_timestamp`|文件生成的UNIX时间戳|精确到秒的时间戳|可选，作为字符串读取<br/>兼容精确到毫秒的时间戳|必要，作为字符串导出<br/>精确到秒的时间戳|
 | `export_app`  | 文件创建工具标识      | 由各工具自行定义 | 非必要 | `DodocoTales.StarRail` |
 |`export_app_version`|工具版本标识|由各工具自行定义|非必要|程序版本号|
-|`srgf_versuon`|遵循的SRGF版本号| 已定义的SRGF版本号|必须存在，用于识别SRGF文件<br/>对具体值无要求|`v1.0`|
+|`srgf_version`|遵循的SRGF版本号| 已定义的SRGF版本号|必须存在，用于识别SRGF文件<br/>对具体值无要求|`v1.0`|
 
 
 #### 扩展信息
@@ -122,7 +122,10 @@ UIGF组织提供了SRGF格式的JSON Schema。
 | 星穹铁道跃迁观测工具<br/>Star Rail Warp Observe <br/> [TremblingMoeNew/StarRailWarpObserve](https://github.com/TremblingMoeNew/StarRailWarpObserve) | Windows | `DodocoTales.StarRail` | 仅`zh-cn`  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Warp History Exporter <br/>[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) | Windows | | |  |  |  |  
 | 崩坏:星穹铁道抽卡导出工具<br/> Star Rail Gacha Exporter<br/> [DancingSnow0517/StarRail-gacha](https://github.com/DancingSnow0517/StarRail-gacha) | Windows | |  |  | |  |  
-| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | | | | |  
+| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | | | |  
 | 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | | | | | |  
 | 星铁披萨小助手<br/>HSR Pizza Helper<br/>[pizza-studio/hsrpizzahelper](https://github.com/pizza-studio/hsrpizzahelper)| iOS<br/>macOS<br/>iPadOS | | | | | |  
-| Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | | | | | |  
+| Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
+| SRCat<br/>[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat) | Windows | `SRCat` | | | | |  
+| 「崩坏 · 星穹铁道」 跃迁记录导出脚本<br/>star-rail-gacha-export<br/> [vikiboss/star-rail-gacha-export](https://github.com/vikiboss/star-rail-gacha-export) | Windows | `star-rail-gacha-export` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
+| 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | | | | |  
