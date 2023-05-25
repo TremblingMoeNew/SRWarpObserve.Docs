@@ -59,7 +59,7 @@ UIGF组织提供了SRGF格式的JSON Schema。
 
 鉴于单个SRGF文件仅会包含一名用户的祈愿记录，而标准规定文件内所有记录项应当为同一语言，这两项可以被分类为“用户信息”，并从记录项中提取出来、置于文件基本信息部分。
 
-此外，《崩坏：星穹铁道》的跃迁历史记录API中提供了时区信息`region_time_zone`。
+此外，《崩坏：星穹铁道》的跃迁历史记录API中提供了该账号所属服务器的时区信息`region_time_zone`。
 
 | 字段   | SRGF规定  | 星穹铁道跃迁观测工具 - 导入  | 星穹铁道跃迁观测工具 - 导出    |
 | ------ | -------- | -------------------------- | ----------- |
@@ -120,12 +120,13 @@ UIGF组织提供了SRGF格式的JSON Schema。
 | 工具          | 平台 | `export_app`            |  导入支持 | 从Starwo导入 | 导出支持 | 向Starwo导入 |  
 | ---------- | ---- | ----------------------- | ---------| -------------| ------------ | --- |
 | 星穹铁道跃迁观测工具<br/>Star Rail Warp Observe <br/> [TremblingMoeNew/StarRailWarpObserve](https://github.com/TremblingMoeNew/StarRailWarpObserve) | Windows | `DodocoTales.StarRail` | 仅`zh-cn`  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Warp History Exporter <br/>[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) | Windows | | |  |  |  |  
-| 崩坏:星穹铁道抽卡导出工具<br/> Star Rail Gacha Exporter<br/> [DancingSnow0517/StarRail-gacha](https://github.com/DancingSnow0517/StarRail-gacha) | Windows | |  |  | |  |  
-| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | | | |  
-| 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | | | | | |  
-| 星铁披萨小助手<br/>HSR Pizza Helper<br/>[pizza-studio/hsrpizzahelper](https://github.com/pizza-studio/hsrpizzahelper)| iOS<br/>macOS<br/>iPadOS | | | | | |  
-| Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
-| SRCat<br/>[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat) | Windows | `SRCat` | | | | |  
+| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Warp History Exporter <br/>[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) | Windows |  | :x: | :x: | :x: | :x: |  
+| 崩坏:星穹铁道抽卡导出工具<br/> Star Rail Gacha Exporter<br/> [DancingSnow0517/StarRail-gacha](https://github.com/DancingSnow0517/StarRail-gacha) | Windows | `star-rail-gacha` | :x: | :x: | :white_check_mark: | 未测试 |  
+| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | :x: | :x: | :x: | :x: |  
+| 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | `StarRailToolkit` | :x: | :x: | :white_check_mark: | :x: |  
+| 星铁披萨小助手<br/>HSR Pizza Helper<br/>[pizza-studio/hsrpizzahelper](https://github.com/pizza-studio/hsrpizzahelper)| iOS<br/>macOS<br/>iPadOS | | :x: | :x: | :x: | :x: |  
+| Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| SRCat<br/>[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat) | Windows | `SRCat` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
 | 「崩坏 · 星穹铁道」 跃迁记录导出脚本<br/>star-rail-gacha-export<br/> [vikiboss/star-rail-gacha-export](https://github.com/vikiboss/star-rail-gacha-export) | Windows | `star-rail-gacha-export` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
-| 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | | | | |  
+| HoYo.Gacha<br/>[lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha) | Windows | `com.lgou2w.hoyo.gacha` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
+| 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | :x: | :x: | :x: | :x: |  
