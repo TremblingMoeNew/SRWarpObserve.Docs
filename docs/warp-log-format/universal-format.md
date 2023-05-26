@@ -123,10 +123,11 @@ UIGF组织提供了SRGF格式的JSON Schema。
 | 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Warp History Exporter <br/>[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) | Windows |  | :x: | :x: | :x: | :x: |  
 | 崩坏:星穹铁道抽卡导出工具<br/> Star Rail Gacha Exporter<br/> [DancingSnow0517/StarRail-gacha](https://github.com/DancingSnow0517/StarRail-gacha) | Windows | `star-rail-gacha` | :x: | :x: | :white_check_mark: | 未测试 |  
 | 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | :x: | :x: | :x: | :x: |  
-| 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | `StarRailToolkit` | :x: | :x: | :white_check_mark: | :x: |  
+| 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | `StarRailToolkit` | :x: | :x: | :white_check_mark: | 未测试 |  
 | 星铁披萨小助手<br/>HSR Pizza Helper<br/>[pizza-studio/hsrpizzahelper](https://github.com/pizza-studio/hsrpizzahelper)| iOS<br/>macOS<br/>iPadOS | | :x: | :x: | :x: | :x: |  
 | Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | SRCat<br/>[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat) | Windows | `SRCat` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
 | 「崩坏 · 星穹铁道」 跃迁记录导出脚本<br/>star-rail-gacha-export<br/> [vikiboss/star-rail-gacha-export](https://github.com/vikiboss/star-rail-gacha-export) | Windows | `star-rail-gacha-export` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
 | HoYo.Gacha<br/>[lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha) | Windows | `com.lgou2w.hoyo.gacha` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
+| Starward<br/>[Scighost/Starward](https://github.com/Scighost/Starward) | Windows | `Starward` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
 | 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | :x: | :x: | :x: | :x: |  
