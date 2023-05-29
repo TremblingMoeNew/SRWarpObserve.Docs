@@ -127,10 +127,10 @@ UIGF组织提供了SRGF格式的JSON Schema。
 | 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | :x: | :x: | :x: | :x: |
 | 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | `StarRailToolkit` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
 | 星铁披萨小助手<br/>HSR Pizza Helper<br/>[pizza-studio/hsrpizzahelper](https://github.com/pizza-studio/hsrpizzahelper)| iOS<br/>macOS<br/>iPadOS | | :x: | :x: | :x: | :x: |  
-| Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| SRCat<br/>[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat) | Windows | `SRCat` | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
+| Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| SRCat<br/>[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat) | Windows | `SRCat` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | 「崩坏 · 星穹铁道」 跃迁记录导出脚本<br/>star-rail-gacha-export<br/> [vikiboss/star-rail-gacha-export](https://github.com/vikiboss/star-rail-gacha-export) | Windows | `star-rail-gacha-export` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
-| HoYo.Gacha<br/>[lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha) | Windows | `com.lgou2w.hoyo.gacha` | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
-| Starward<br/>[Scighost/Starward](https://github.com/Scighost/Starward) | Windows | `Starward` | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
+| HoYo.Gacha<br/>[lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha) | Windows | `com.lgou2w.hoyo.gacha` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| Starward<br/>[Scighost/Starward](https://github.com/Scighost/Starward) | Windows | `Starward` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | PaiGram<br/>[PaiGramTeam/HonkaiStarRailGram](https://github.com/PaiGramTeam/HonkaiStarRailGram) | Telegram Bot | `PaiGram` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
 | 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | :x: | :x: | :x: | :x: |  
