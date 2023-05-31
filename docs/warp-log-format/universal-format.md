@@ -121,10 +121,10 @@ UIGF组织提供了SRGF格式的JSON Schema。
 
 | 工具          | 平台 | `export_app`            |  导入支持 | 从Starwo导入 | 导出支持 | 向Starwo导入 |  
 | ---------- | ---- | ----------------------- | ---------| -------------| ------------ | --- |
-| 星穹铁道跃迁观测工具<br/>Star Rail Warp Observe <br/> [TremblingMoeNew/StarRailWarpObserve](https://github.com/TremblingMoeNew/StarRailWarpObserve) | Windows | `DodocoTales.StarRail` | 仅`zh-cn`  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Warp History Exporter <br/>[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) | Windows |  | :x: | :x: | :x: | :x: |  
-| 崩坏:星穹铁道抽卡导出工具<br/> Star Rail Gacha Exporter<br/> [DancingSnow0517/StarRail-gacha](https://github.com/DancingSnow0517/StarRail-gacha) | Windows | `star-rail-gacha` | :x: | :x: | :white_check_mark: | :x: |  
-| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | :x: | :x: | :x: | :x: |
+| 星穹铁道跃迁观测工具<br/>Star Rail Warp Observe <br/> [TremblingMoeNew/StarRailWarpObserve](https://github.com/TremblingMoeNew/StarRailWarpObserve) | Windows | `DodocoTales.StarRail` | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Warp History Exporter <br/>[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) | Windows |  | :x: | :x: | :x:  | :x: |  
+| 崩坏:星穹铁道抽卡导出工具<br/> Star Rail Gacha Exporter<br/> [DancingSnow0517/StarRail-gacha](https://github.com/DancingSnow0517/StarRail-gacha) | Windows | `star-rail-gacha` | :x:  | :x: | :heavy_exclamation_mark::heavy_exclamation_mark: | :x: |  
+| 崩坏:星穹铁道跃迁记录导出工具<br/>Star Rail Tools<br/>[cntvc/star-rail-tools](https://github.com/cntvc/star-rail-tools) | Windows | `StarRailTools` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | 《崩坏：星穹铁道》工具箱<br/>Honkai Star Rail Toolkit<br/>[LittleNyima/honkai-starrail-toolkit](https://github.com/LittleNyima/honkai-starrail-toolkit) | Windows | `StarRailToolkit` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
 | 星铁披萨小助手<br/>HSR Pizza Helper<br/>[pizza-studio/hsrpizzahelper](https://github.com/pizza-studio/hsrpizzahelper)| iOS<br/>macOS<br/>iPadOS | | :x: | :x: | :x: | :x: |  
 | Asta<br/>[AuroraZiling/star-rail-asta](https://github.com/AuroraZiling/star-rail-asta) | Windows | `asta` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
@@ -132,5 +132,5 @@ UIGF组织提供了SRGF格式的JSON Schema。
 | 「崩坏 · 星穹铁道」 跃迁记录导出脚本<br/>star-rail-gacha-export<br/> [vikiboss/star-rail-gacha-export](https://github.com/vikiboss/star-rail-gacha-export) | Windows | `star-rail-gacha-export` | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |  
 | HoYo.Gacha<br/>[lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha) | Windows | `com.lgou2w.hoyo.gacha` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Starward<br/>[Scighost/Starward](https://github.com/Scighost/Starward) | Windows | `Starward` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| PaiGram<br/>[PaiGramTeam/HonkaiStarRailGram](https://github.com/PaiGramTeam/HonkaiStarRailGram) | Telegram Bot | `PaiGram` | :white_check_mark: | 未测试 | :white_check_mark: | 未测试 |  
+| PaiGram<br/>[PaiGramTeam/HonkaiStarRailGram](https://github.com/PaiGramTeam/HonkaiStarRailGram) | Telegram Bot | `PaiGram` | :white_check_mark: | :grey_question: | :white_check_mark: | :grey_question: |  
 | 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | :x: | :x: | :x: | :x: |  
