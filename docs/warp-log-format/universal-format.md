@@ -134,5 +134,6 @@ UIGF组织提供了SRGF格式的JSON Schema。
 | Starward<br/>[Scighost/Starward](https://github.com/Scighost/Starward) | Windows | `Starward` | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | PamGram<br/>[PaiGramTeam/PamGram](https://github.com/PaiGramTeam/PamGram) | Telegram Bot | `PaiGram` | :white_check_mark: | :grey_question: | :white_check_mark: | :grey_question: |  
 | 星轨工具箱<br/>[JamXi233/SRTools](https://github.com/JamXi233/SRTools) | Windows | `SRTools` | :white_check_mark: | :grey_question: | :white_check_mark: | :grey_question: |  
+| Miao-Yunzai<br/>[yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) | QQ Bot | `Miao-Yunzai` | :grey_question: | :grey_question: | :grey_question: | :grey_question: |  
 | 咸鱼的崩铁助理<br/>非开源工具 | 微信小程序 | `咸鱼的崩铁助理` | :white_check_mark: | :grey_question: |  :white_check_mark: | :grey_question: |  
 | 非小酋<br/>Feixiaoqiu<br/>非开源工具 | 网页 | | :x: | :x: | :x: | :x: |  
